@@ -34,9 +34,7 @@ For instance:
 </html>
 ```
 
-```online
-You can run the example by clicking the "Play" button in the right-top corner of the box above.
-```
+ 
 
 The `<script>` tag contains JavaScript code which is automatically executed when the browser processes the tag.
 
@@ -99,7 +97,7 @@ Other pages that reference the same script will take it from the cache instead o
 That reduces traffic and makes pages faster.
 ```
 
-````warn header="If `src` is set, the script content is ignored."
+ If `src` is set, the script content is ignored."
 A single `<script>` tag can't have both the `src` attribute and code inside.
 
 This won't work:
