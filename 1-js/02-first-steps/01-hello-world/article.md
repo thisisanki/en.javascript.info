@@ -97,7 +97,7 @@ Other pages that reference the same script will take it from the cache instead o
 That reduces traffic and makes pages faster.
 ```
 
-<h1> If `src` is set, the script content is ignored.</h1.
+<h3> If `src` is set, the script content is ignored.</h3>
  
 A single `<script>` tag can't have both the `src` attribute and code inside.
 
